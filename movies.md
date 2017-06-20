@@ -1,6 +1,6 @@
 <item>
 <title>Ant Man</title>
-<link>http://hyfytv.com/video/embedxplay.php?id=21320</link>
+<link>http://www.dailymotion.com/embed/video/k79XqPTYwjjYb7ny4u7</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
